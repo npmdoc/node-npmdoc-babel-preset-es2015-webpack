@@ -1,6 +1,6 @@
 # npmdoc-babel-preset-es2015-webpack
 
-#### api documentation for  [babel-preset-es2015-webpack (v6.4.3)](https://github.com/gajus/babel-preset-es2015-webpack#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-babel-preset-es2015-webpack.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-babel-preset-es2015-webpack) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-babel-preset-es2015-webpack.svg)](https://travis-ci.org/npmdoc/node-npmdoc-babel-preset-es2015-webpack)
+#### basic api documentation for  [babel-preset-es2015-webpack (v6.4.3)](https://github.com/gajus/babel-preset-es2015-webpack#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-babel-preset-es2015-webpack.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-babel-preset-es2015-webpack) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-babel-preset-es2015-webpack.svg)](https://travis-ci.org/npmdoc/node-npmdoc-babel-preset-es2015-webpack)
 
 #### Babel preset for all es2015 plugins except babel-plugin-transform-es2015-modules-commonjs.
 
@@ -63,7 +63,8 @@
     "scripts": {
         "test": ""
     },
-    "version": "6.4.3"
+    "version": "6.4.3",
+    "bin": {}
 }
 ```
 
